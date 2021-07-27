@@ -1,0 +1,5 @@
+hindi_data/
+marathi_data/
+*.bin
+*.pickle
+literature/
