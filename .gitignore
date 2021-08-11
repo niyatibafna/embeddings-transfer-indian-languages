@@ -4,3 +4,5 @@ marathi_data/
 *.pickle
 literature/
 assist_variables/
+hin_embeddings/
+mr_embeddings/
