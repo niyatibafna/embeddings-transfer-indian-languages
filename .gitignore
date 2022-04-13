@@ -10,3 +10,4 @@ mr_embeddings/
 data/
 embeddings
 vecmap/
+*DS_Store*
