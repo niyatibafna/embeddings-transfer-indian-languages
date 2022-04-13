@@ -1,8 +1,12 @@
 hindi_data/
 marathi_data/
 *.bin
+*.vec
 *.pickle
 literature/
 assist_variables/
 hin_embeddings/
 mr_embeddings/
+data/
+embeddings
+vecmap/
